@@ -1,0 +1,1 @@
+Updates info from the new Facepunch that is stored in DynamoDB
